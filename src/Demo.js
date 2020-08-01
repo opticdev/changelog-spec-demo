@@ -160,7 +160,7 @@ export function Demo() {
           title="What type is expected for field?"
           inputs={[
             {
-              preview: `spec.whatTypeIsExpectedForAField('root')`,
+              preview: `spec.whatTypeIsExpectedForAField('field2')`,
               result: () => mainState.whatTypeIsExpectedForAField('field2'),
             },
           ]}
