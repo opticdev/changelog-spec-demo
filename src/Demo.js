@@ -76,7 +76,7 @@ export function Demo() {
           valueLabelDisplay="auto"
           step={1}
           marks
-          min={0}
+          min={1}
           max={defaultFacts.length}
         />
 
@@ -95,7 +95,7 @@ export function Demo() {
           valueLabelDisplay="auto"
           step={1}
           marks
-          min={0}
+          min={1}
           max={defaultFacts.length}
         />
 
